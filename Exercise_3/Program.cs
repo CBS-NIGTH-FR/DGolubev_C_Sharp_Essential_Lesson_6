@@ -10,6 +10,7 @@ namespace Exercise_3
             Console.WriteLine("Введите что ищем: ");
             string find_text = Console.ReadLine();
             note.CreateMemo(find_text);
+            Console.ReadKey();
         }
     }
 }

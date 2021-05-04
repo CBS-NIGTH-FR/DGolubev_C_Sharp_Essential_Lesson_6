@@ -10,4 +10,4 @@ namespace Exercise_2
         }
     }
 }
-//D:\Пример
+
