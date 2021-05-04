@@ -25,6 +25,7 @@ namespace Additional_Task
                         int num2 = Convert.ToInt32(Console.ReadLine());
                         int result = Addition(num1, num2);
                         Console.WriteLine($"Ответ:  {result}");
+
                         break;
                     }
                 case 2:
